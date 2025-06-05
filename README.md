@@ -9,7 +9,7 @@
 <!-- Banner Animation -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👋+Hey+there!+I'm+Zivana+Afra+Yulianto;💻+Full-Stack+Developer+%7C+QA+Enthusiast;✨+Building+the+Future%2C+One+Line+at+a+Time" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👋+Hey+there!+I'm+Zivana+Afra+Yulianto;💻+Full-Stack+Developer+%7C+QA+Enthusiast" alt="Dynamic Typing" />
 
   <!-- Animated GIF -->
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="250" />
