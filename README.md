@@ -154,17 +154,6 @@
 
 ---
 
-## 📈 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!-- This section can be automated with WakaTime -->
-<!--END_SECTION:waka-->
-
-</div>
-
----
 
 ## 🌟 Let's Build Something Amazing Together!
 
