@@ -29,17 +29,14 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="200" />
 
-```typescript
-const zivana = {
-    location: "Purwokerto, Indonesia 🇮🇩",
-    education: "Software Engineering @ Telkom University Purwokerto",
-    gpa: "3.87/4.00 🎓",
-    role: "Head of Member Empowerment Dept @ HMSE",
-    passions: ["Web Development", "Software Testing", "Innovation"],
-    mindset: "Quality-driven, Collaborative, Always Learning",
-    status: "Building amazing digital experiences ✨"
-};
-```
+### 💡 About Me
+
+🎓 &nbsp;**Software Engineering Student** @ Telkom University Purwokerto (GPA: 3.87)  
+💻 &nbsp;Passionate in **Web Development** and **Software Testing**  
+🛠 &nbsp;Skilled in full-stack development and test automation (Selenium, Katalon)  
+🎯 &nbsp;Driven by quality, collaboration, and continuous learning  
+👥 &nbsp;Currently leading as **Head of Member Empowerment Dept @ HMSE**  
+📍 &nbsp;Based in **Purwokerto, Indonesia**
 
 ### 🌟 What Drives Me
 - 🔥 **Innovation Enthusiast**: Always exploring cutting-edge technologies
