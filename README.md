@@ -1,27 +1,34 @@
 # 🌟 Welcome to My Digital Universe
 
-<div align="center">
-  
-<!-- Dynamic Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👋+Hey+there!+I'm+Zivana+Afra+Yulianto;🚀+Software+Engineering+Student;💻+Full-Stack+Developer+%7C+QA+Enthusiast;✨+Building+the+Future%2C+One+Line+at+a+Time" alt="Dynamic Typing" />
-
-<!-- Animated Developer GIF -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="250" />
-
-<!-- Social Badges with Hover Effects -->
-<p>
-  <a href="https://www.linkedin.com/in/zivana-a-222b22247">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-  </a>
-  <a href="mailto:afrazivana5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-  </a>
-  <a href="https://github.com/zivanaa">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-  </a>
+<!-- ✨ Quick Bio (Moved ABOVE the banner) -->
+<p align="center">
+  👩‍💻 <strong>Software Engineering Student</strong> @ Telkom University Purwokerto | GPA: 3.87  
+  💡 Passionate Full-Stack Developer & QA Engineer • Based in Purwokerto, Indonesia 🇮🇩  
 </p>
 
+<!-- Banner Animation -->
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=👋+Hey+there!+I'm+Zivana+Afra+Yulianto;🚀+Software+Engineering+Student;💻+Full-Stack+Developer+%7C+QA+Enthusiast;✨+Building+the+Future%2C+One+Line+at+a+Time" alt="Dynamic Typing" />
+
+  <!-- Animated GIF -->
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="250" />
+
+  <!-- Social Media Buttons -->
+  <p>
+    <a href="https://www.linkedin.com/in/zivana-a-222b22247">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+    </a>
+    <a href="mailto:afrazivana5@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+    </a>
+    <a href="https://github.com/zivanaa">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+    </a>
+  </p>
+
 </div>
+
 
 ---
 
