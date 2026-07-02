@@ -15,7 +15,7 @@
   </p>
 </div>
 
-## 🎯 About Me
+## About Me
 
 - &nbsp;Building an **enterprise AI assistant** used in production — local LLM (Qwen 3) + **Text-to-SQL** + **RAG** over company SQL Server, multilingual 🇮🇩🇬🇧🇨🇳
 - &nbsp;**Software Engineering Student** @ Telkom University Purwokerto — GPA **3.87**
@@ -27,7 +27,7 @@
 
 ---
 
-## 🤖 AI / LLM Engineering
+## AI / LLM Engineering
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -66,9 +66,9 @@
 
 ---
 
-## 🎨 Featured Projects
+## Featured Projects
 
-### 🤖 YihQuantic — Enterprise AI Chat Assistant
+### YihQuantic — Enterprise AI Chat Assistant
 ![Role](https://img.shields.io/badge/Role-End--to--End_Solo_Build-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Production_(Internal)-blue?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Stack-FastAPI_·_LangChain_·_Ollama_·_ChromaDB_·_React_·_Electron-1C3C3C?style=for-the-badge)
@@ -81,7 +81,7 @@
 - **Scale-ready**: LLM concurrency gate, caching seams, config-based local → GPU-server migration
 - **200+ deterministic pytest** (no DB/LLM needed) running on GitHub Actions
 
-### 🔐 It Safe — Secure Web Application
+### It Safe — Secure Web Application
 ![Role](https://img.shields.io/badge/Role-Full--Stack_·_Project_Manager-informational?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Stack-PHP_·_MySQL_·_Bootstrap-777BB4?style=for-the-badge)
 
@@ -89,7 +89,7 @@
 
 ---
 
-## 🌟 Let's Connect
+## Let's Connect
 
 <div align="center">
 
