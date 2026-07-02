@@ -17,13 +17,13 @@
 
 ## 🎯 About Me
 
-- 🤖 &nbsp;Building an **enterprise AI assistant** used in production — local LLM (Qwen 3) + **Text-to-SQL** + **RAG** over company SQL Server, multilingual 🇮🇩🇬🇧🇨🇳
-- 🎓 &nbsp;**Software Engineering Student** @ Telkom University Purwokerto — GPA **3.87**
-- 💻 &nbsp;Full-stack: **Python/FastAPI** backend · **React + Electron** desktop apps
-- 🧪 &nbsp;QA at heart — **200+ deterministic pytest** on CI, Selenium & Katalon automation
-- 👥 &nbsp;Head of Member Empowerment Dept @ **HMSE**
-- 🌱 &nbsp;Currently leveling up: **LangGraph · AutoGen · LoRA fine-tuning · Pinecone/Weaviate**
-- 📍 &nbsp;Purwokerto, Indonesia
+- &nbsp;Building an **enterprise AI assistant** used in production — local LLM (Qwen 3) + **Text-to-SQL** + **RAG** over company SQL Server, multilingual 🇮🇩🇬🇧🇨🇳
+- &nbsp;**Software Engineering Student** @ Telkom University Purwokerto — GPA **3.87**
+- &nbsp;Full-stack: **Python/FastAPI** backend · **React + Electron** desktop apps
+- &nbsp;QA at heart — **200+ deterministic pytest** on CI, Selenium & Katalon automation
+- &nbsp;Head of Member Empowerment Dept @ **HMSE**
+- &nbsp;Currently leveling up: **LangGraph · AutoGen · LoRA fine-tuning · Pinecone/Weaviate**
+- &nbsp;Purwokerto, Indonesia
 
 ---
 
@@ -75,11 +75,11 @@
 
 > A **fully-local** (no cloud) desktop AI assistant that lets employees query company databases in natural language — Indonesian, English, or Chinese — and get answers backed by real SQL evidence.
 
-- 🧠 **Hybrid pipeline**: agentic Text-to-SQL (planner → table picker → SQL writer → validator) + 4-phase RAG (chunking, embeddings, cosine, MMR re-ranking, PDF support)
-- 📊 **Multi-database report builder**: AI picks sources per section (SQL / documents / user files / web), streams live progress over WebSocket, exports **PDF & PPTX**
-- 🔐 **Enterprise-grade**: RBAC, hardened SQL validation, audit logging, admin panel
-- ⚡ **Scale-ready**: LLM concurrency gate, caching seams, config-based local → GPU-server migration
-- ✅ **200+ deterministic pytest** (no DB/LLM needed) running on GitHub Actions
+- **Hybrid pipeline**: agentic Text-to-SQL (planner → table picker → SQL writer → validator) + 4-phase RAG (chunking, embeddings, cosine, MMR re-ranking, PDF support)
+- **Multi-database report builder**: AI picks sources per section (SQL / documents / user files / web), streams live progress over WebSocket, exports **PDF & PPTX**
+- **Enterprise-grade**: RBAC, hardened SQL validation, audit logging, admin panel
+- **Scale-ready**: LLM concurrency gate, caching seams, config-based local → GPU-server migration
+- **200+ deterministic pytest** (no DB/LLM needed) running on GitHub Actions
 
 ### 🔐 It Safe — Secure Web Application
 ![Role](https://img.shields.io/badge/Role-Full--Stack_·_Project_Manager-informational?style=for-the-badge)
