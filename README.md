@@ -96,7 +96,7 @@
 💼 Open for: **AI Engineering** · **Full-Stack Development** · **QA** · Collaborations & Open Source
 
 <a href="mailto:afrazivana5@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/zivana-a-222b22247"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/zivana-yulianto-5a9866408"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
