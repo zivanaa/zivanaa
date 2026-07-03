@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Zivana%20Afra%20Yulianto&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Application%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20QA%20Engineer&descAlignY=52&descSize=15" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&width=820&lines=Hey!+I'm+Zivana+%F0%9F%91%8B;Building+AI+that+talks+to+enterprise+databases;LLM+%C2%B7+RAG+%C2%B7+Agentic+Workflows+%C2%B7+Text-to-SQL;Full-Stack+Developer+%7C+QA+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&width=820&lines=Hey!+I'm+Zivana+%F0%9F%91%8B;Building+AI+that+talks+to+enterprise+databases;LLM+%C2%B7+RAG+%C2%B7+Agentic+Workflows+%C2%B7+Text-to-SQL;Full-Stack+Developer+%7C+Software+Engineer" alt="Typing SVG" />
 
   <p>
     <a href="https://www.linkedin.com/in/zivana-yulianto-5a9866408">
