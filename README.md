@@ -18,12 +18,12 @@
 ## About Me
 
 - &nbsp;Building an **enterprise AI assistant** used in production — local LLM (Qwen 3) + **Text-to-SQL** + **RAG** over company SQL Server, multilingual 🇮🇩🇬🇧🇨🇳
-- &nbsp;**Software Engineering Student** @ Telkom University Purwokerto — GPA **3.87**
+- &nbsp;**Software Engineering Student** @ Telkom University Purwokerto — GPA **3.88**
 - &nbsp;Full-stack: **Python/FastAPI** backend · **React + Electron** desktop apps
 - &nbsp;QA at heart — **200+ deterministic pytest** on CI, Selenium & Katalon automation
 - &nbsp;Head of Member Empowerment Dept @ **HMSE**
 - &nbsp;Currently leveling up: **LangGraph · AutoGen · LoRA fine-tuning · Pinecone/Weaviate**
-- &nbsp;Purwokerto, Indonesia
+- &nbsp;Batang, Indonesia
 
 ---
 
