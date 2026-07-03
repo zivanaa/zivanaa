@@ -1,6 +1,6 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Zivana%20Afra%20Yulianto&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Application%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20QA%20Engineer&descAlignY=52&descSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Zivana%20Afra%20Yulianto&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Application%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=52&descSize=15" />
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&width=820&lines=Hey!+I'm+Zivana+%F0%9F%91%8B;Building+AI+that+talks+to+enterprise+databases;LLM+%C2%B7+RAG+%C2%B7+Agentic+Workflows+%C2%B7+Text-to-SQL;Full-Stack+Developer+%7C+Software+Engineer" alt="Typing SVG" />
 
@@ -21,7 +21,6 @@
 - &nbsp;**Software Engineering Student** @ Telkom University Purwokerto — GPA **3.88**
 - &nbsp;Full-stack: **Python/FastAPI** backend · **React + Electron** desktop apps
 - &nbsp;QA at heart — **200+ deterministic pytest** on CI, Selenium & Katalon automation
-- &nbsp;Head of Member Empowerment Dept @ **HMSE**
 - &nbsp;Currently leveling up: **LangGraph · AutoGen · LoRA fine-tuning · Pinecone/Weaviate**
 - &nbsp;Batang, Indonesia
 
