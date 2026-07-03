@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00D8FF&center=true&vCenter=true&width=820&lines=Hey!+I'm+Zivana+%F0%9F%91%8B;Building+AI+that+talks+to+enterprise+databases;LLM+%C2%B7+RAG+%C2%B7+Agentic+Workflows+%C2%B7+Text-to-SQL;Full-Stack+Developer+%7C+QA+Engineer" alt="Typing SVG" />
 
   <p>
-    <a href="https://www.linkedin.com/in/zivana-a-222b22247">
+    <a href="www.linkedin.com/in/zivana-yulianto-5a9866408">
       <img src="https://img.shields.io/badge/LinkedIn-Zivana_Afra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:afrazivana5@gmail.com">
