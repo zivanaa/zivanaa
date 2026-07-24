@@ -22,6 +22,11 @@
 - &nbsp;Full-stack: **Python/FastAPI** backend · **React + Electron** desktop apps
 - &nbsp;QA at heart — **200+ deterministic pytest** on CI, Selenium & Katalon automation
 - &nbsp;Currently leveling up: **LangGraph · AutoGen · LoRA fine-tuning · Pinecone/Weaviate**
+- &nbsp;Next up — **GPU serving migration** (planned): moving the enterprise assistant from
+  CPU Ollama to **vLLM** behind the existing `LLM_PROVIDER` seam — PagedAttention,
+  prefix caching, FP8 KV cache, continuous batching, speculative decoding.
+  Methodology first: CPU baseline recorded before touching anything, one variable
+  per measurement, before/after numbers per commit, features dropped if neutral.
 - &nbsp;Batang, Indonesia
 
 ---
